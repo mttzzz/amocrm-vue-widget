@@ -1,0 +1,24 @@
+{
+    "widget": {
+        "name": "widget.name",
+        "description": "widget.description",
+        "short_description": "widget.short_description",
+        "code": "startcrm_onedocs",
+        "secret_key": "9c16ace3d5d568257c77008fd66d6924cac737ca8bce6d7ba1b8dfedd7a82cd2",
+        "version": "1.0.0",
+        "interface_version": 2,
+        "init_once": true,
+        "locale":[ "ru", "en" ],
+        "installation": true
+    },
+    "locations":[
+        "settings"
+    ],
+    "settings":{              
+        "config": {
+            "name": "settings.account",
+            "type": "custom",
+            "required": false
+        }
+    }
+}
