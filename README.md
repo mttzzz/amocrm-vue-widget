@@ -17,7 +17,7 @@ $ npm install
 Далее выполнить сборку виджета.
 
 ```sh
-$ npm build
+$ npm run build
 ```
 Залить готовый виджет **widget.zip** в amoCRM
 
@@ -30,7 +30,7 @@ $ npm build
 и запустить локальный вебсервер
 
 ```sh
-$ npm build && npm dev
+$ npm run build && npm run dev
 ```
 
 **Не забудьте повторно залить виджет с новыми путями!**
