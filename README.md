@@ -8,7 +8,7 @@
 
 
 ```sh
-$ git clone https://github.com/iamkuper/amocrm-vue-widget.git ./widget
+$ git clone https://github.com/mttzzz/amocrm-vue-widget.git ./widget
 $ cd widget
 $ npm install
 ```
